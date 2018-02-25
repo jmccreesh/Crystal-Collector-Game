@@ -1,0 +1,13 @@
+  
+.jumbotron h1 {
+    color: #000;     
+}
+  
+.instructions {
+    text-align: center; 
+}
+  
+.img-thumbnail {
+    box-shadow: 0 0 0 0;
+    border: 0px;
+}
